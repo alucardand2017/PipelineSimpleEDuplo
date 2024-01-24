@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AUA12PIPELINE/1.0.0": {
+        "runtime": {
+          "AUA12PIPELINE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AUA12PIPELINE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
